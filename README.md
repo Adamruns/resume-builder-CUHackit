@@ -1,5 +1,8 @@
 # resume-builder-CUHackit
-Building a free resume builder for the CU hackathon 2022
+Never got to finish this project due to Covid Exposures in our group, 
+However this is a rough prototype for 
+Building a free resume builder for the CU hackathon 2022,
+which I may revisit and complete later if I have the time
 
 #Running project
 Install pipenv
